@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T11:47:03.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" version="20.2.2" etag="tBiQ30VI4lqIArUyb84P" type="github"><diagram id="3hA0JPDEhd9gc4Itpv3c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-05T14:10:01.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="vUy2sRXg4U64heKEDDGj" version="20.2.3" type="github">
+  <diagram id="3hA0JPDEhd9gc4Itpv3c" name="Pagina-1">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vR5ajId_hpdWkppUzHqL-13" value="" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;rounded=1;glass=0;strokeColor=#2146FF;strokeWidth=2;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="215" width="217" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-1/24/building-128.png" vertex="1" parent="1">
+          <mxGeometry x="118" y="236" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/travello-basic-ui-1/64/Home-128.png" vertex="1" parent="1">
+          <mxGeometry x="368" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-6/512/Estate_home_house_building_property_real-128.png" vertex="1" parent="1">
+          <mxGeometry x="491" y="64" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/universal-7/614/20_-_Home-128.png" vertex="1" parent="1">
+          <mxGeometry x="783" y="12" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-71/24/046_-_House-128.png" vertex="1" parent="1">
+          <mxGeometry x="254" y="71" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Building_business_company_house_home_real_estate_state-128.png" vertex="1" parent="1">
+          <mxGeometry x="134" y="439" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/2-building-line-filled/614/Police_Station-128.png" vertex="1" parent="1">
+          <mxGeometry x="879" y="229" width="181" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/2-building-line-filled/614/Police_Station-128.png" vertex="1" parent="1">
+          <mxGeometry x="882" y="461" width="181" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Twin&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Datacenters&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="899" y="178" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-15" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;KVK Kantoor&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="669" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;endArrow=none;endFill=0;strokeWidth=3;shadow=0;sketch=0;" edge="1" parent="1" source="vR5ajId_hpdWkppUzHqL-16" target="vR5ajId_hpdWkppUzHqL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;endArrow=none;endFill=0;strokeWidth=3;shadow=0;sketch=0;" edge="1" parent="1" source="vR5ajId_hpdWkppUzHqL-16" target="vR5ajId_hpdWkppUzHqL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=15;endArrow=none;endFill=0;strokeWidth=3;shadow=0;sketch=0;" edge="1" parent="1" source="vR5ajId_hpdWkppUzHqL-16" target="vR5ajId_hpdWkppUzHqL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=15;endArrow=none;endFill=0;strokeWidth=3;shadow=0;sketch=0;" edge="1" parent="1" source="vR5ajId_hpdWkppUzHqL-16" target="vR5ajId_hpdWkppUzHqL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;endArrow=none;endFill=0;strokeWidth=3;shadow=0;sketch=0;" edge="1" parent="1" source="vR5ajId_hpdWkppUzHqL-16" target="vR5ajId_hpdWkppUzHqL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.227;entryY=0.953;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;endArrow=none;endFill=0;strokeWidth=3;shadow=0;sketch=0;" edge="1" parent="1" source="vR5ajId_hpdWkppUzHqL-16" target="vR5ajId_hpdWkppUzHqL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.009;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;endArrow=none;endFill=0;strokeWidth=3;shadow=0;sketch=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="718" y="419.75" as="sourcePoint" />
+            <mxPoint x="850.953" y="418.81500000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-16" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=15;strokeColor=#2146FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="281" width="299" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="vR5ajId_hpdWkppUzHqL-23" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;IP-VPN&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="541" y="348" width="68" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
