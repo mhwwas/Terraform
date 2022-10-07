@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T09:32:06.334Z" agent="5.0 (Windows)" etag="g4uf67a8BQ2959GNbLRt" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T09:36:31.763Z" agent="5.0 (Windows)" etag="PszXo1EBFS3VpE_MCqGP" version="20.4.0" type="github">
   <diagram id="Vf8ScLjDU8h2pD3rkk8C" name="Page-1">
     <mxGraphModel dx="1550" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="410" y="459" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEICJIpf-HnAvJKy8O_x-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_endpoint;shadow=1;sketch=0;strokeWidth=3;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="539" y="571" width="60" height="20" as="geometry" />
+          <mxGeometry x="525" y="571" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEICJIpf-HnAvJKy8O_x-23" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Kantoor&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="287" y="507.23" width="102" height="38" as="geometry" />
@@ -111,6 +111,24 @@
         </mxCell>
         <mxCell id="PGDXv05ij2jPZqyMUPNh-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;SDWAN fabric&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=0;strokeWidth=3;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="479" y="363" width="166" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="PGDXv05ij2jPZqyMUPNh-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00FF00;shape=mxgraph.azure.service_endpoint;shadow=1;sketch=0;strokeWidth=3;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="407.4" y="430" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PGDXv05ij2jPZqyMUPNh-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00FF00;shape=mxgraph.azure.service_endpoint;shadow=1;sketch=0;strokeWidth=3;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="551" y="571" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PGDXv05ij2jPZqyMUPNh-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_endpoint;shadow=1;sketch=0;strokeWidth=3;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="162" y="691" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PGDXv05ij2jPZqyMUPNh-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00FF00;shape=mxgraph.azure.service_endpoint;shadow=1;sketch=0;strokeWidth=3;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="162" y="659" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PGDXv05ij2jPZqyMUPNh-9" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;IPVPN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="90" y="652" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PGDXv05ij2jPZqyMUPNh-10" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="82" y="684" width="84" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
