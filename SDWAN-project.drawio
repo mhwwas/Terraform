@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T15:11:42.171Z" agent="5.0 (Windows)" etag="Epd4XPUHmnUa9MK9Xpti" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T15:12:36.990Z" agent="5.0 (Windows)" etag="2P-tX9zPMNuStEUYvb7f" version="20.4.1" type="github">
   <diagram id="Vf8ScLjDU8h2pD3rkk8C" name="Page-1">
     <mxGraphModel dx="1550" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -292,8 +292,8 @@
         <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-59" value="&lt;b&gt;WAN SP&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="884" y="2163.5" width="73" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-60" value="&lt;div&gt;&lt;b&gt;Kantoor/DC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Locaties&lt;/b&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="893" y="2365" width="96" height="46" as="geometry" />
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-60" value="&lt;div&gt;&lt;b&gt;Kantoor / Rekencentrum&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Locaties&lt;/b&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="893" y="2367" width="181" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
