@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T14:10:04.990Z" agent="5.0 (Windows)" etag="5tQu8EkzZ_mpt5D3d53R" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T14:16:16.322Z" agent="5.0 (Windows)" etag="vexaNWlNkoZl4eGTGjLy" version="20.4.1" type="github">
   <diagram id="Vf8ScLjDU8h2pD3rkk8C" name="Page-1">
     <mxGraphModel dx="1550" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -183,6 +183,39 @@
         </mxCell>
         <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-19" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="621" y="2134" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-20" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Orkestratie laag&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1800" width="146" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-21" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Management laag&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="271" y="1895" width="161" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-22" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Besturing laag&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="278" y="1997" width="136" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-23" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Underlay transport netwerk&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="103" y="2161.5" width="239" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-24" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Data laag&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="232" y="2319" width="94" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-25" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Rekencentrum&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="405" y="2374" width="136" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-26" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Kantoor&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="589" y="2378" width="83" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-27" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Cloud (Azure)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="725" y="2383" width="129" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-28" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;vSmart&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="645" y="2019" width="76" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-29" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;vManage&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1912" width="91" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv2ncIB_xTtmmgyhVuqZ-30" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;vBond&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="644" y="1816" width="71" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
