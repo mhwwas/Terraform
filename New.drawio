@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T17:32:00.331Z" agent="5.0 (Windows)" etag="TA8xqNa9s2WMFjNs8u-t" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T19:59:57.714Z" agent="5.0 (Windows)" etag="jCkS5qfRr4qb48zeyZ0a" version="20.6.2" type="github">
   <diagram id="3hA0JPDEhd9gc4Itpv3c" name="Pagina-1">
     <mxGraphModel dx="2426" dy="1252" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -210,6 +210,9 @@
         </mxCell>
         <mxCell id="vSffPIsU94AIsLdu5wni-48" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;SaaS&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="917" y="916" width="74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSffPIsU94AIsLdu5wni-54" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="688" y="896" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
