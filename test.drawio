@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T11:07:18.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="j4vPxjrOSJ9XhIRj_m_l" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T09:55:38.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="kjx_W7B19nzNnKLkKaAY" version="22.0.8" type="github">
   <diagram id="vSdHNL2ee3mHXXqhylAA" name="Pagina-1">
-    <mxGraphModel dx="2074" dy="1951" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="1419" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,59 +256,59 @@
         <mxCell id="YNolZeWeY5tOPH2mtzqY-22" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
           <mxGeometry x="670.5" y="1144" width="36" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="167" y="574" width="208" height="140.5" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="LoBN3vxIiWBzxHkZS5RN-3">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="LoBN3vxIiWBzxHkZS5RN-3" vertex="1">
           <mxGeometry width="208" height="131.04" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="LoBN3vxIiWBzxHkZS5RN-3">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" parent="LoBN3vxIiWBzxHkZS5RN-3" vertex="1">
           <mxGeometry x="125" y="82" width="58.5" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-4" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-4" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" parent="1" vertex="1">
           <mxGeometry x="530" y="-656" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-5" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Woman_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="431" y="-346" width="80" height="80" as="geometry" />
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-5" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Woman_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="372" y="-238" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-6" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-6" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png" parent="1" vertex="1">
           <mxGeometry x="527" y="-241" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Blueprints.svg;" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Blueprints.svg;" parent="1" vertex="1">
           <mxGeometry x="627" y="-641" width="160" height="153.6" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/building-vol-3-3/512/7-128.png" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/building-vol-3-3/512/7-128.png" parent="1" vertex="1">
           <mxGeometry x="620" y="-407" width="206" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;labelBackgroundColor=default;sketch=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;labelBackgroundColor=default;sketch=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="668.5" y="-465" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-12" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Woman_Black_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="365" y="-232" width="80" height="80" as="geometry" />
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-12" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Woman_Black_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="423.5" y="-347" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-15" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.arrow_cycle" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-15" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.arrow_cycle" parent="1" vertex="1">
           <mxGeometry x="436.68" y="-259" width="93.32" height="88.65" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="1">
-          <mxGeometry x="279" y="-724" width="116" height="298" as="geometry" />
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" parent="1" vertex="1">
+          <mxGeometry x="425.34000000000003" y="-633" width="116" height="298" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Architect&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Architect&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="537" y="-694" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;IT Teams&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="781" y="-147" width="87" height="30" as="geometry" />
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;IT Teams&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="-154" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-20" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-20" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" parent="1" vertex="1">
           <mxGeometry x="92" y="-684" width="180" height="233" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/emoji-66/64/12-wondering-128.png" vertex="1" parent="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/emoji-66/64/12-wondering-128.png" parent="1" vertex="1">
           <mxGeometry x="85" y="-366" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-23" value="" style="image;html=1;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="395" y="-519" width="80.5" height="168" as="geometry" />
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-23" value="" style="image;html=1;image=img/lib/clip_art/finance/Arrow_Down_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="49" y="-190" width="80.5" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-24" value="" style="image;html=1;image=img/lib/clip_art/finance/Shopping_Cart_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="902" y="-732.5" width="177" height="233" as="geometry" />
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-24" value="" style="image;html=1;image=img/lib/clip_art/finance/Shopping_Cart_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="936" y="-723" width="177" height="233" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
