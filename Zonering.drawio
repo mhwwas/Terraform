@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T17:20:11.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="kQjJL2BaTHh59jF2aiiY" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T18:05:05.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="mEH7AODpaGJdYFC6aO3V" version="22.0.8" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="3728" dy="1737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4963" dy="2406" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,9 +211,9 @@
           <mxGeometry x="-1482" y="-376" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FymvahWyx7S4mhsMVnn-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1133" y="-415.5" width="149" height="109" as="geometry" />
+          <mxGeometry x="-1163" y="-415.5" width="206" height="111.5" as="geometry" />
         </mxCell>
-        <mxCell id="_FymvahWyx7S4mhsMVnn-14" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Zonering&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_FymvahWyx7S4mhsMVnn-14" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Segmentatie&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1150" y="-372" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FymvahWyx7S4mhsMVnn-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -279,7 +279,7 @@
         <mxCell id="_FymvahWyx7S4mhsMVnn-44" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Internet&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_FymvahWyx7S4mhsMVnn-50">
           <mxGeometry y="30" width="181" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_FymvahWyx7S4mhsMVnn-51" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Voorbeeld:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Azure via VPN&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=144;dy=21;size=19.5;boundedLbl=1;fillColor=#00FF00;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_FymvahWyx7S4mhsMVnn-51" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Voorbeeld:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Leverancier via VPN&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=144;dy=21;size=19.5;boundedLbl=1;fillColor=#00FF00;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1766" y="320.5" width="156" height="104" as="geometry" />
         </mxCell>
         <mxCell id="_FymvahWyx7S4mhsMVnn-52" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Voorbeeld:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Azure via Expressroute&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=144;dy=21;size=19.5;boundedLbl=1;fillColor=#FFFF00;strokeColor=#82b366;" vertex="1" parent="1">
