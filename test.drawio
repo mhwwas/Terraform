@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T09:55:38.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="kjx_W7B19nzNnKLkKaAY" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T11:58:53.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="NynVGX3t-tf_3-BSl2Hu" version="22.0.8" type="github">
   <diagram id="vSdHNL2ee3mHXXqhylAA" name="Pagina-1">
-    <mxGraphModel dx="1094" dy="1419" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="1863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,10 +292,10 @@
         <mxCell id="LoBN3vxIiWBzxHkZS5RN-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" parent="1" vertex="1">
           <mxGeometry x="425.34000000000003" y="-633" width="116" height="298" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Architect&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Team &lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Architect&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="537" y="-694" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LoBN3vxIiWBzxHkZS5RN-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;IT Teams&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LoBN3vxIiWBzxHkZS5RN-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Teams Infra&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="-154" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LoBN3vxIiWBzxHkZS5RN-20" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" parent="1" vertex="1">
