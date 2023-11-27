@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T15:59:31.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="H4AUqV5qe9V_FDjamq2d" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T17:02:56.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="NymDP8uittJyWGsfr_NC" version="22.1.4" type="github">
   <diagram id="g39K4nKnYGuXUk7XF5TI" name="Pagina-1">
     <mxGraphModel dx="1185" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -611,6 +611,9 @@
             <mxPoint x="283.12276073619614" y="3726" as="sourcePoint" />
             <mxPoint x="282.91" y="3675" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T2sTmBJz0pPTbscCHWZ7-4" value="&lt;b&gt;Alle Verkeer&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="398.5" y="169" width="87" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
